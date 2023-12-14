@@ -1,0 +1,72 @@
+site-claytonsalesdev
+
+indexh
+
+[logo do dev]
+
+[menu]
+Home
+Pessoal indexp
+Profissional indexpro
+Fale comigo indexf
+
+
+[foto do dev]
+
+menu interativo das redes sociais
+
+[rodape]
+
+----------------------------------
+index pessoal
+
+[menu]
+Home
+Pessoal indexp
+Profissional indexpro
+Fale comigo indexf
+
+Casado, 4 filhos, 1 neta, atualmente com 43 anos, estudante de tecnologia na faculdadeUninovee, fazendo cursos complementares noCursoEmVideo, se especializando na função de Front-End, aprendendo as linguagens de marcação Html5 e Css3, entrando neste momento na fase da linguagem de programação JavaScript. Iniciando alguns testes no Visualg, realizando testes de algoritimo.
+
+[foto familia]
+
+
+[rodape]
+
+-----------------------------------
+index profissional
+
+[menu]
+Home
+Pessoal indexp
+Profissional indexpro
+Fale comigo indexf
+
+
+Minha vida profissional
+
+Meu primeiro trabalho profissional foi vendendo uma fruta chamada caqui, esse tabalho foi informal, não demorou muito encontrei trabalho registrado em escritório de advocacia, iniciando na função de office-boy e encerrando na função de aux. administrativo. Vou colocar as funções que exerci profissionalmente para não ficar muito extenso. Claytonsalesdev. Desenvovli diversas atividades de trabalho, vou colacar logo abaixo as funções desenvolvidas, conforme os anos foram passando e fui progredindo. Atualmente sou Motorista Carreteiro, desenvolvo essa função na empresa Transportes Marvel Uma empresa que tem atuação em, todo território nacional e mercosul.
+
+Tenho conhecido diversos lugares no Brasil e outros paises como: Argentina, Paraguay, Chile, Uruguay. Motorista carreteiro tem uma importância muito grande na ecônomia do Brasil e do mundo, pois 95% de toda produção de diversos seguimentos precisa ser transportados por caminhões, principamente no Brasil.
+
+[foto onibus]
+[foto carreta]
+[foto dev]
+
+[rodape]
+-----------------------------------
+index fale comigo
+
+[menu]
+Home
+Pessoal indexp
+Profissional indexpro
+Fale comigo indexf
+
+e-mail
+whatsapp
+celular
+
+[foto programando]
+
+[rodape]
