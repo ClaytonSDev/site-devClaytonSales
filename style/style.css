@@ -27,17 +27,10 @@
 }
 
 body {
-    background-color:#993D88;
-    font-family: var(--fonte-padrao);
+    background-color: #663D5F;
 }
 
-a.externo::after {
-    content: '\00a0\1f517';
-}
-
-header {
-    max: width 50px;
-    display: block;
-    margin: auto;
-
-}
+.class {
+    width: 200px; /* define a largura desejada */
+    height: auto; /* permite que a altura seja ajustada automaticamente de acordo com a largura */
+  }
