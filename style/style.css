@@ -9,12 +9,12 @@
 }
 
 :root {
-    --cor0:#FFFFFF;
-    --cor1:#FF01CF;
+    --cor0:#FF01CF;
+    --cor1:#CC29AE;
     --cor2:#993D88;
     --cor3:#663D5F;
-    --cor4:#330A2C;
-    --cor5:#332931;
+    --cor4:#332931;
+    --cor5:#000000;
 
     --fonte-padrao: Arial, Verdana, Helvetica,sans-serif;
     --fonte-destaque:'Open sans', cursive;
